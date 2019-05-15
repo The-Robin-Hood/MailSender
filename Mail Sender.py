@@ -25,7 +25,7 @@ H="H"
 if (Format == P):
     Format = "plain"
 elif (Format == H ):
-    Foramt = "html"
+    Format = "html"
 else:
     print("Enter a Valid Format H or P !!")
     exit(1)
